@@ -1,16 +1,17 @@
 # Django Tutorial
 
-Repozytorium z moim projektem nauki Django.
+Repozytorium z moimi projektami nauki Django.
 
 ## Zawartość
 
-- Projekt Django z podstawową strukturą
-- Ćwiczenia z modeli, widoków i szablonów
+- **MVC_projekt** – System rezerwacji biletów (zadanie zaliczeniowe)
+- **polls** – aplikacja ankiet z tutoriala Django
+- **mysite** – główna konfiguracja projektu
 
 ## Technologie
 
-Python, Django, Git
+Python, Django, SQLite, Git
 
 ## Cel
 
-Nauka frameworków i praktyka w tworzeniu aplikacji webowych.
+Nauka frameworka Django i praktyka w tworzeniu aplikacji webowych.
